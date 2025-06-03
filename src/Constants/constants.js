@@ -95,12 +95,14 @@ const icons = {
 
 const introduction = {
   text: [
-    "Hello there, I'm so happy you are here! (:",
+    "Hello, Thanks for visiting my personal site.",
 
-    "Hello! I'm Daniel, a full stack developer based in Malaysia. I have a strong passion for the technologies related to QA and AI.",
-    "Ambitious and knowledgeable front-end developer with expertise in web and app development, specializing in clean, efficient code. Proficient in MongoDB, Express.js, Nest.js, React.js, Node.js, Next.js, MySQL, HTML5, and CSS3, with added experience in blockchain, including Solidity, wallet integration, and NFT marketplaces. Skilled in creating responsive designs for micro-sites, landing pages, and templates, I am driven to exceed expectations and support client success through innovative solutions and troubleshooting. Eager to contribute my technical and interpersonal skills to a dynamic team.",
-    "Outside of my regular activities, I'm a football enthusiast, chess player, and a dog lover.",
-    "You can download my resume here.",
+    "Hello! I'm  Albert, a full stack developer based in US. I have a strong passion for technologies related to QA and AI, and I specialize in creating robust web and app solutions.",
+    "I am proficient in MongoDB, Express.js, Nest.js, React.js, Node.js, Next.js, MySQL, HTML5, and CSS3, and I also have experience in blockchain technologies, including Solidity, wallet integration, and NFT marketplaces",
+    "I am skilled in creating responsive designs for micro-sites, landing pages, and templates, and I am committed to writing clean, efficient code.",
+    "Driven to exceed client expectations, I thrive on delivering innovative solutions and effective troubleshooting.",
+    "I am eager to contribute my technical and interpersonal skills to a dynamic team.",
+    "You can download my resume, "
   ],
 };
 
