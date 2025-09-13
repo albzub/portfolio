@@ -97,7 +97,7 @@ const introduction = {
   text: [
     "Hello, Thanks for visiting my personal site.",
 
-    "Hello! I'm  Albert, a full stack developer based in US. I have a strong passion for technologies related to QA and AI, and I specialize in creating robust web and app solutions.",
+    "Hello! I'm  Rio Ephraim Miranda, a full stack developer based in US. I have a strong passion for technologies related to QA and AI, and I specialize in creating robust web and app solutions.",
     "I am proficient in MongoDB, Express.js, Nest.js, React.js, Node.js, Next.js, MySQL, HTML5, and CSS3, and I also have experience in blockchain technologies, including Solidity, wallet integration, and NFT marketplaces",
     "I am skilled in creating responsive designs for micro-sites, landing pages, and templates, and I am committed to writing clean, efficient code.",
     "Driven to exceed client expectations, I thrive on delivering innovative solutions and effective troubleshooting.",
