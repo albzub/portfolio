@@ -19,7 +19,7 @@ const SocialLinks = () => {
           icon={icons.faGithub}
         />
       </a>
-      <a href="mailto:albertwk124@gmail.com" target="_blank">
+      <a href="mailto:rebm140293@gmail.com" target="_blank">
         <FontAwesomeIcon
           className="text-3xl text-grayscale-25 hover:text-primary-200 hover:scale-[1.1] transition-all duration-75"
           icon={icons.faEnvelope}
